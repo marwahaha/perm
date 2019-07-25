@@ -5,7 +5,7 @@
 
 ## Description
 
-A bash tool to abreviate recursive chmod and chown commands.
+A bash tool to abbreviate recursive chmod and chown commands.
 
 It can do recursive chmod and chown commands to a valid(s) user and its file(s)/folder(s).
 
